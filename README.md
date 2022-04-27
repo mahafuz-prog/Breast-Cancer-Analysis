@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">Breast-Cancer-Analysisr</h1>
+<h1 align="center">Breast-Cancer-Analysis</h1>
 </p>
 
 ### Breast Cancer Analysis using machine learning algorithm XGBoost (eXtreme Gradient Boosting) to classify Benign or Malignant.

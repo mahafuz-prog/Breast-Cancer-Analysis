@@ -2,7 +2,7 @@
 <h1 align="center">Breast-Cancer-Analysisr</h1>
 </p>
 
-### Breast Cancer Analysis using machine learning algorithm XGBoost (eXtreme Gradient Boosting).
+### Breast Cancer Analysis using machine learning algorithm XGBoost (eXtreme Gradient Boosting) to classify Benign or Malignant.
 
 
 - <h4> Step 1: I have used a <a href='https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data', target="_blank">dataset<a/> from kaggle and preprocessed.
